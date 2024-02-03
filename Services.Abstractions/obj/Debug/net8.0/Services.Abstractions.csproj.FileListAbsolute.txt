@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.deps.json
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.dll
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.pdb
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\bin\Debug\net8.0\Contracts.dll
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\bin\Debug\net8.0\Contracts.pdb
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.AssemblyInfo.cs
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.CopyComplete
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.dll
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\obj\Debug\net8.0\refint\Services.Abstractions.dll
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.pdb
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Services.Abstractions\obj\Debug\net8.0\ref\Services.Abstractions.dll
