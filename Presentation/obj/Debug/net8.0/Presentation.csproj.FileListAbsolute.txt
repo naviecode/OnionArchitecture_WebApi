@@ -17,3 +17,4 @@ C:\Users\asus\Desktop\OnionArchitecture_WebApi\Presentation\bin\Debug\net8.0\Con
 C:\Users\asus\Desktop\OnionArchitecture_WebApi\Presentation\bin\Debug\net8.0\Services.Abstractions.dll
 C:\Users\asus\Desktop\OnionArchitecture_WebApi\Presentation\bin\Debug\net8.0\Services.Abstractions.pdb
 C:\Users\asus\Desktop\OnionArchitecture_WebApi\Presentation\bin\Debug\net8.0\Contracts.pdb
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json

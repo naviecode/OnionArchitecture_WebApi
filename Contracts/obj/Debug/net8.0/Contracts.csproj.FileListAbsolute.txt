@@ -9,3 +9,4 @@ C:\Users\asus\Desktop\OnionArchitecture_WebApi\Contracts\obj\Debug\net8.0\Contra
 C:\Users\asus\Desktop\OnionArchitecture_WebApi\Contracts\obj\Debug\net8.0\refint\Contracts.dll
 C:\Users\asus\Desktop\OnionArchitecture_WebApi\Contracts\obj\Debug\net8.0\Contracts.pdb
 C:\Users\asus\Desktop\OnionArchitecture_WebApi\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\Users\asus\Desktop\OnionArchitecture_WebApi\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json

@@ -29,7 +29,15 @@ namespace Services
             return user.Adapt<UserDto>();
 
         }
+        public async Task UpdateAsync(Guid userId, UserForUpdateDto userForUpdateDto, CancellationToken cancellationToken = default)
+        {
+            var user = await _repositoryManager.UserRepository.GetByIdAsync(userId, cancellationToken);
+            user.Name = userForUpdateDto.Name;
+            user.BirthDay = userForUpdateDto.BirthDay;
+            user.Address = userForUpdateDto.Address;
 
+            await _repositoryManager.UnitOfWork.SaveChangesAsync(cancellationToken);
+        }
         public async Task DeleteAsync(Guid userId, CancellationToken cancellationToken = default)
         {
             var user = await _repositoryManager.UserRepository.GetByIdAsync(userId, cancellationToken);

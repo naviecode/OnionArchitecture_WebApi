@@ -13,5 +13,6 @@ namespace Services.Abstractions
         Task<UserDto>GetbyIdAsync(Guid userId, CancellationToken cancellationToken = default);
         Task<UserDto> CreateAsync(UserForCreationDto userDto, CancellationToken cancellationToken = default);
         Task DeleteAsync(Guid userId, CancellationToken cancellationToken = default);
+        Task UpdateAsync(Guid userId,UserForUpdateDto userDto, CancellationToken cancellationToken= default);
     }
 }

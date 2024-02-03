@@ -49,7 +49,14 @@ namespace Presentation.Controllers
 
             return Ok(reponse);
         }
-        [HttpPost("{userId:guid}")]
+        [HttpPut("{userId:guid}")]
+        public async Task<IActionResult> UpdateUser(Guid userId, UserForUpdateDto userForUpdateDto, CancellationToken cancellationToken)
+        {
+            await _serviceManager.UserService.UpdateAsync(userId, userForUpdateDto, cancellationToken);
+
+            return NoContent();
+        }
+        [HttpDelete("{userId:guid}")]
         public async Task<IActionResult> DeleteUser(Guid userId, CancellationToken cancellationToken)
         {
             await _serviceManager.UserService.DeleteAsync(userId, cancellationToken);
